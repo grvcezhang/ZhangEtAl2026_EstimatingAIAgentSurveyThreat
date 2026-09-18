@@ -1,0 +1,4 @@
+# browser-use arm. After the first install, pin the exact version for reproducibility:
+#   pip freeze | grep -i browser-use
+# Validated against browser-use 0.13.1 (2026-06-10). Needs Python >=3.11,<4.0.
+browser-use[core]
