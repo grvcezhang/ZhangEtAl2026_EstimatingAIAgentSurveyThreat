@@ -4,4 +4,8 @@ Materials for *“Estimating the threat of AI-agent responding across online sur
 
 Please feel free to reach out to us for more information, additional materials or access, or questions!
 
-Citation:
+## Citation
+
+If you use these data or materials, please cite:
+
+[Your paper citation]
